@@ -13,7 +13,7 @@ print(lista)
 
 #Cantidad de productos en el catalogo
 
-print(len(lista)) #o tambien print(cantidad)
+print(len(lista)) #o tambien print(cantidad)gggg
 
 #precio promedio del catalogo
 suma=0
